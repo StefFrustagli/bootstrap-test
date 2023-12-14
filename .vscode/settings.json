@@ -1,0 +1,4 @@
+{
+    "prettier.bracketSameLine": true,
+    "C_Cpp.vcFormat.newLine.closeBraceSameLine.emptyFunction": true
+}
